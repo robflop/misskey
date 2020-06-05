@@ -120,7 +120,6 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><a href="https://www.patreon.com/user?u=24430516">Eduardo Quiros</a></td>
 </tr></table>
 <table><tr>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/14215107/1cbe1912c26143919fa0faca16f12ce1/4.jpg?token-time=2145916800&token-hash=BslMqDjTjz8KYANLvxL87agHTugHa0dMPUzT-hwR6Vk%3D" alt="Nesakko" width="100"></td>
 <td><img src="https://c8.patreon.com/2/200/776209" alt="Demogrognard" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/3075183/c2ae575c604e420297f000ccc396e395/1.jpeg?token-time=2145916800&token-hash=O9qmPtpo6wWb0OuvnkEekhk_1WO2MTdytLr7ZgsAr80%3D" alt="Liaizon Wakest" width="100"></td>
 <td><img src="https://c8.patreon.com/2/200/557245" alt="mkatze " width="100"></td>
@@ -131,7 +130,6 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><img src="https://c8.patreon.com/2/200/16869916" alt="見当かなみ " width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/18899730/6a22797f68254034a854d69ea2445fc8/1.png?token-time=2145916800&token-hash=b_uj57yxo5VzkSOUS7oXE_762dyOTB_oxzbO6lFNG3k%3D" alt="YuzuRyo61 " width="100"></td>
 </tr><tr>
-<td><a href="https://www.patreon.com/Nesakko">Nesakko</a></td>
 <td><a href="https://www.patreon.com/user?u=776209">Demogrognard</a></td>
 <td><a href="https://www.patreon.com/wakest">Liaizon Wakest</a></td>
 <td><a href="https://www.patreon.com/user?u=557245">mkatze </a></td>
@@ -202,7 +200,7 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><a href="https://www.patreon.com/user?u=12531784">Takashi Shibuya</a></td>
 </tr></table>
 
-**Last updated:** Tue, 02 Jun 2020 00:00:08 UTC
+**Last updated:** Fri, 05 Jun 2020 12:00:07 UTC
 <!-- PATREON_END -->
 
 :four_leaf_clover: Copyright
